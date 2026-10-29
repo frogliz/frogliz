@@ -1,12 +1,12 @@
 <p align="center">
   <img src="assets/banner.gif" width="100%" alt="Cena de anime: garota de vestido branco e cabelo vermelho ao vento, num campo de flores brancas">
   <br>
-  <img src="assets/header.svg" width="100%" alt="RUSSO. Nikolas “Goats” Russo. Quem é você? Boa pergunta…">
+  <img src="assets/header.svg" width="100%" alt="RUSSO. Nikolas Russo. Quem é você? Boa pergunta…">
 </p>
 
 <img align="right" width="42%" src="assets/sobre.gif" alt="Personagem de anime de cabelo vermelho e olho vermelho, com o cabelo ao vento">
 
-Oi, eu sou o **Nikolas**, mas pode me chamar de **Goats**.
+Oi, eu sou o **Nikolas**, mas pode me chamar de **Russo**.
 
 Sou desenvolvedor independente aqui do Brasil. Faço software de desktop, sites, bots de Discord e jogos, sempre atrás da mesma coisa: ficar leve, bonito e funcionar de primeira.
 
